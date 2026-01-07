@@ -37,6 +37,9 @@ Satellite images are fetched using latitude and longitude coordinates for every 
 Satellite images were downloaded using the Mapbox Static API.  
 For each property, its geographic coordinates were used to retrieve a high-resolution (512×512) satellite image at zoom level 18. These images capture roads, vegetation, water bodies, and neighborhood structure. Each image was stored locally and mapped to its house ID.
 
+link to access downloaded img data train : https://drive.google.com/drive/folders/1nfogcP20hlAFJQRApIE2cbl7_MdLZ5Ez?usp=drive_link
+test img data : https://drive.google.com/drive/folders/1lULL7peQbSXEu2KWIeLXPoK-t6EgrdOZ?usp=drive_link
+
 ---
 
 ##  Data Cleaning & Feature Engineering
